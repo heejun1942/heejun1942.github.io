@@ -1,6 +1,6 @@
 ---
-title: Escape
-subtitle: Website Design
+title: DO 구두
+subtitle: 구두수선소 정보 제공 사이트
 layout: default
 modal-id: 2
 date: 2014-07-17
