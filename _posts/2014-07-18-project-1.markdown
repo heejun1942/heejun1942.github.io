@@ -4,8 +4,8 @@ subtitle: 딥러닝 기반 자연어처리 모델
 layout: default
 modal-id: 1
 date: 2020-06-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: dogudu.PNG
+thumbnail: dogudu-thumbnail.PNG
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
