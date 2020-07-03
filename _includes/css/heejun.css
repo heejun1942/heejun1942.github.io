@@ -1,11 +1,10 @@
-.skills-li{
+/* .skills-li{
     text-align: left;
 }
 
 .skills-text{
     color: #777;
     font-size:1.25em;
-    /* background: #fed136; */
 }
 
 .skills-text span{
@@ -18,15 +17,11 @@
     padding:0;
     display: inline-block;
     font-size: 1.05em;
-    /* margin-top: 1.5em; */
     line-height: 2em;
-    /* margin-top:0.7em; */
 }
 
 #services li::before{
     content: url('https://api.iconify.design/fa:check-square-o.svg?height=14&inline=true');
     vertical-align: -0.143em;
     margin-right:0.6em;
-    
-    /* font-family: FontAwesome; */
-}
+} */
