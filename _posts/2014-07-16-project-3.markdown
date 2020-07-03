@@ -4,8 +4,8 @@ subtitle: IoT와 모바일앱을 이용한 피킹서비스
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: dogudu.PNG
+thumbnail: dogudu-thumbnail.PNG
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
