@@ -3,13 +3,13 @@ title: DO 구두
 subtitle: 구두수선소 정보 제공 사이트
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2020.05
 img: dogudu.PNG
 thumbnail: dogudu3-thumbnail.PNG
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+project-date: 2020.01
+skills: Java, Spring Boot
+category: 웹 어플리게이션 구현
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
