@@ -4,8 +4,8 @@ subtitle: 구두수선소 정보 제공 사이트
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: dogudu2.PNG
-thumbnail: dogudu2-thumbnail.PNG
+img: dogudu.PNG
+thumbnail: dogudu3-thumbnail.PNG
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
