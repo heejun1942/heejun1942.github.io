@@ -897,4 +897,12 @@ body {
     /* font-family: FontAwesome; */
 }
 
+body{
+    font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
 
+.aboutme{
+    font-size:1.2em;
+    font-weight: 600;
+    
+}
