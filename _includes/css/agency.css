@@ -407,7 +407,8 @@ section h3.section-subheading {
     padding: 25px;
     max-width: 400px;
     text-align: center;
-    background-color: #fff;
+    /* background-color: #fff; */
+    background-color: #f7f7f7;
 }
 
 #portfolio .portfolio-item .portfolio-caption h4 {
@@ -902,7 +903,7 @@ body{
 }
 
 .aboutme{
-    font-size:1.2em;
+    font-size:1.3em;
     font-weight: 600;
     
 }
