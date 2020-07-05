@@ -902,8 +902,12 @@ body{
     font-family: Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
-.aboutme{
+.aboutme span{
     font-size:1.3em;
     font-weight: 600;
-    
+}
+
+.aboutme p{
+    padding: 0.5em 0 2em;
+    font-size:1em;
 }
