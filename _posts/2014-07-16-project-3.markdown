@@ -9,7 +9,7 @@ thumbnail: pickme-thumbnail.PNG
 alt: image-alt
 project-date: 2018.03 - 2019.02
 skills: IoT, Ionic Framwork
-category: IoT 제어와 모바일앱 구현
+category: IoT 제어, 모바일앱 구현
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---

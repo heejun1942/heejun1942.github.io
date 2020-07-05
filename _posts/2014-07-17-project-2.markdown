@@ -10,6 +10,5 @@ alt: image-alt
 project-date: 2020.01
 skills: Java, Spring Boot
 category: 웹 어플리게이션 구현
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: Java와 Spring Boot를 이용하여 웹 어플리케이션을 구현하였습니다. 이 웹사이트는 많은 직장인들의 사소한 스트레스 중 하나인 구두관리 문제를 해결하기 위해서, 자신의 GPS 위치 기반으로 가장 가까운 9개의 구두수선소를 알려주며 예약서비스를 제공해줍니다. 서울의 구두수선소 위치는 공공데이터포털에서 제공해주는 데이터를 사용하였고 구두수선소의 위치를 보여주기위한 지도는 카카오 API를 이용하였습니다.
 ---
