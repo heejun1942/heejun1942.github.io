@@ -903,11 +903,14 @@ body{
 }
 
 .aboutme span{
-    font-size:1.3em;
+    /* font-size:1.3em; */
+    font-size: 1.8rem;
     font-weight: 600;
+    color: #777;
 }
 
 .aboutme p{
     padding: 0.5em 0 2em;
     font-size:1em;
+    color: #777;
 }
