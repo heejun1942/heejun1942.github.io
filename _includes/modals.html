@@ -15,23 +15,19 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <ul class="list-inline item-details">
-                                <!-- <li>Client:
-                                    <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
-                                    </strong>
-                                </li> -->
                                 <li>Service:
-                                    <strong>{{ post.category }}
-                                    </strong>
+                                    <strong style="color:#fed136;">{{ post.category }}</strong>
                                 </li>
                                 <li>Date:
-                                    <strong>{{ post.project-date }}
-                                    </strong>
+                                    <strong style="color:#fed136;">{{ post.project-date }}</strong>
                                 </li>
                                 <li>Skills:
-                                    <strong><a href="http://startbootstrap.com">{{ post.skills }}</a>
+                                    <strong style="color:#fed136;">{{ post.skills }}</strong>
+                                </li>
+                                <li>url:
+                                    <strong><a href="{{ post.move }}">{{ post.move }}</a>
                                     </strong>
                                 </li>
-                                
                             </ul>
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
