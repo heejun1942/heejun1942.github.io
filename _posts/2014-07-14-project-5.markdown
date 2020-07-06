@@ -2,7 +2,7 @@
 title: Doggie Face
 subtitle: 닮은 개 종류를 찾아주는 사이트
 layout: default
-modal-id: 3
+modal-id: 5
 date: 2020.06
 img: doggie-face2.PNG
 thumbnail: doggie-face2-thumbnail.PNG

@@ -2,14 +2,14 @@
 title: Doggie Face
 subtitle: 닮은 개 종류를 찾아주는 사이트
 layout: default
-modal-id: 3
+modal-id: 4
 date: 2020.06
 img: doggie-face3.PNG
 thumbnail: doggie-face3-thumbnail.PNG
 alt: image-alt
 project-date: 2018.03 - 2019.02
-skills: IoT 제어, 모바일앱 구현
-category: 모바일 앱을 이용한 피킹서비스
+skills: 딥러닝, CNN
+category: 닮은 개 종류를 찾아주는 사이트
 description: 중소규모의 물류창고를 대상으로 모바일앱을 이용한 피킹(picking) 서비스와 모니터링 시스템을 제공합니다. 중소규모의 물류창고에서는 비용적인 문제로 자동화 시스템을 도입하지 못하고 수작업에 의한 피킹작업을 진행하는 경우가 많습니다. 이러한 수작업은 전산상 제고량의 불일치와 배송오류를 초래할 수 있습니다. 저희는 모바일앱을 이용한 피킹 서비스를 제공하므로서, 데이터의 흐름을 자동화하여 이러한 문제를 해결하고자 하였습니다.
 
 ---
