@@ -4,7 +4,7 @@ subtitle: 닮은 개 종류를 찾아주는 사이트
 layout: default
 modal-id: 3
 date: 2020.06
-img: pickme.PNG
+img: doggie-face.PNG
 thumbnail: doggie-face-thumbnail.PNG
 alt: image-alt
 project-date: 2018.03 - 2019.02
