@@ -662,7 +662,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/map-image.png');
+    /* background-image: url('{{ site.baseurl }}/img/map-image.png'); */
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -917,3 +917,16 @@ body{
     font-size:1em;
     color: #777;
 }
+
+.contact-text p{
+    color: aliceblue;
+    font-size: 1.8rem;
+    text-align: center;
+}
+.contact-text i{
+    padding-right: 1rem;
+}
+/* .contact-text{
+    margin: auto;
+    width: 40rem;
+} */

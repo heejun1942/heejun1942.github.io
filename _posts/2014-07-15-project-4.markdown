@@ -10,5 +10,5 @@ alt: image-alt
 project-date: 2018.03 - 2019.02
 skills: 딥러닝, CNN
 category: 닮은 개 종류를 찾아주는 사이트
-description: CNN 모델로 강아지 얼굴을 학습하여, 사람얼굴과 유사한 강아지종을 알려준다. 
+description: CNN 모델로 강아지 얼굴을 학습하여, 사람얼굴과 유사한 강아지종을 알려줍니다.
 ---
